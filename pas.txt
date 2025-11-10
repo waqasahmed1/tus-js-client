@@ -1,4 +1,1 @@
 freeiptv
-domain
-love
-home
