@@ -1,1 +1,5 @@
 freeiptv
+home
+pc
+kg
+login
